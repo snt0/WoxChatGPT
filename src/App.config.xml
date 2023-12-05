@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<appSettings>
+		<add key="API_Key" value="YOUR API KEY HERE" />
+		<add key="System_Message" value="You are a helpful assistant, tasked with answering queries in a concise and direct way." />
+	</appSettings>
+</configuration>
